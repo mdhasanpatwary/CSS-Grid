@@ -60,6 +60,6 @@ body {
   font-weight: 500;
 }
 .header ul li a:hover {
-  color: orange;
+  color: azure;
   text-decoration: underline;
 }
